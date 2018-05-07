@@ -22,4 +22,4 @@ for address in it:
         movie_name_file.write(title[0].text+"\n")
 movie_name_file.close()
 
-#第三部分存储对应信息
+#第三部分存储对应信息  看看能不能存到数据库里面
